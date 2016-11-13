@@ -1,0 +1,5 @@
+CREATE SEQUENCE wat_case_filter_sequence
+ START WITH     1
+ INCREMENT BY   1
+ NOCACHE
+ NOCYCLE;

@@ -1,0 +1,1 @@
+Delete from wct_reason where id = 13340;

@@ -1,0 +1,1 @@
+insert into wct_reason (ID,WCT_CATEGORY_ID,TEXT,FILTER_GROUP,SORT_ORDER,FLAGS,HYPER_PRODUCT_ID)values (13340,30061,'-- New Reason --',0,0,15,0)
